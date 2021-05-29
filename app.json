@@ -1,0 +1,12 @@
+{
+  "name": "JobFinderApp",
+  "displayName": "JobFinderApp",
+  "expo": {
+    "name": "JobFinderApp",
+    "slug": "JobFinderApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
